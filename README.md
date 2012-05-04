@@ -31,20 +31,21 @@ At the same time I plan to use game theory and multi-agent systems to model the 
 
 ## Fundamental Questions
 
-- Is there empiral evidence of market, networks ,hierachy  and crowd in the financial markets?
--	Is the state capitalism and cooperatism an optimal structure when the knowledge is ambigous.?
-- What of the 4 governance structure are the most fragile?
--	To model currency wars using multi-agent systems and game theory
--	Who will win the war between corporations and state capitalism in multi-agent system?
+- Is frontal currency war the best response for the society?
+-	Is collaision an optimal way to win the currency wars?
+- How to model firms dynamics when there are National Champions?
+- The exitence of protectionism  undermines internal markets diversification, innovation and cooperation?
+- Are the Multinational  model and state capitalist successful model in a currency war ?
+
 
 
 
 ## Expected Results
 
-- Bubbles and jumps in volatililty could used as proxy to indentify state transitions.
-- The termal path is a methodology shows changes lead-lag relationships between macro-economical varibales.
-- Currency wars has a not efficient outcome but with the game repetition and less ambiguity agents will make transitions between Imitation, Cooperation and Competition
-
+-  Emergence of coallision between country 
+-  Suboptimal solutions for the world trade
+-  High concentration between  internal countries industries , formation of oligopolies.
+-  Low level of efficiency in the supply chain and overcapacity.
 
 ## References 
 
@@ -54,12 +55,16 @@ Sornette, D.; Zhou, W. -X.
 Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations [Hardcover]
 Yoav Shoham
 
+Cooperation Norms and Revolutions: A unified game theorical approach
+
 
 ## Research Methods
 
 Game Theory
 
 Multi-Agent system
+
+Network Theory
 
 ## Other
 
