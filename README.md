@@ -19,7 +19,7 @@ China and India control the labor supply. US and Europe and Japan control the ca
 
 ## The Model
 
-Developed markets need to stimulate the econnomy using a monetary stimulus (QE). They also have a felxible exchange rate so the stimulus is translated in a temporal decrease of the interest rates. Under this scenario investor will prefer to invest in emerging markets than in DM. It causes net capital outflow taht will be translated in weaker currency.
+There are two trading blocks Developed Markets(DM) and Emerging Markets (EM). Developed markets need to stimulate the econnomy using a monetary stimulus (QE). They also have a felxible exchange rate so the stimulus is translated in a temporal decrease of the interest rates. Under this scenario investor will prefer to invest in emerging markets than in DM. It causes net capital outflow taht will be translated in weaker currency.
 This weaker currency will boost the exports in DM , incresing the GDP of DM. This assume that both DM and EM have flexible exchange rates.
 
 In reality that is not true and some EM in particular china have a fixed exchange rate. So, the only focus of the central bank is to ensure that the currency is fluctuating in very small band.
