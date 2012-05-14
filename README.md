@@ -3,7 +3,7 @@
 
 > * Group Name: Empires 2.0
 > * Group participants names: Valencia Guillermo 
-> * Project Title: Currency Wars: State Capitalism Vs Corporations
+> * Project Title: Currency Wars: Who will win the currency wars
 
 ## General Introduction
 
@@ -46,6 +46,7 @@ In this model countries could interact inside the same block or with countries o
 - How to design policies to prevent a currency wars?
 - How currency wars affects the size of the firm?
 - In a currency war situations industries  become more concentrated than in other states?
+- Are state capitalism and huge multinational realted with a currency war scenario?
 
 
 
