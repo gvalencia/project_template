@@ -19,7 +19,7 @@ China and India control the labor supply. US and Europe and Japan control the ca
 
 ## The Model
 
-There are two trading blocks Developed Markets(DM) and Emerging Markets (EM). Developed markets need to stimulate the econnomy using a monetary stimulus (QE). They also have a felxible exchange rate so the stimulus is translated in a temporal decrease of the interest rates. Under this scenario investor will prefer to invest in emerging markets than in DM. It causes net capital outflow taht will be translated in weaker currency.
+There are two trading blocks Developed Markets(DM) and Emerging Markets (EM). Developed markets need to stimulate the econnomy using a monetary stimulus (QE). They also have a flexible exchange rate so the stimulus is translated in a temporal decrease of the interest rates. Under this scenario investor will prefer to invest in emerging markets than in DM. It causes net capital outflow taht will be translated in weaker currency.
 This weaker currency will boost the exports in DM , incresing the GDP of DM. This assume that both DM and EM have flexible exchange rates.
 
 In reality that is not true and some EM in particular china have a fixed exchange rate. So, the only focus of the central bank is to ensure that the currency is fluctuating in very small band.
@@ -47,10 +47,10 @@ We assume symmetrical 2X2 matrix allowing countries to face 4 different games: P
 - Why trading blocks emerges?
 - What are the possible equibria in the international trade between two blocks?
 - How will win the currency wars?
-- How to design policies to prevent a currency wars?
+- How to design policies to prevent a currency war?
 - How currency wars affects the size of the firm?
 - In a currency war situations industries  become more concentrated than in other states?
-- Are state capitalism and huge multinational realted with a currency war scenario?
+- Are state capitalism and  transnacional companies  corrrelated with a currency war scenario?
 
 
 
