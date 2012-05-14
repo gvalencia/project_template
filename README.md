@@ -19,31 +19,41 @@ China and India control the labor supply. US and Europe and Japan control the ca
 
 ## The Model
 
-Disruptive innovations generate a change of scale in the world productivity. Due to the innovation lock-in effect pioneers got a natural monopoly. The monopolistic structure is not efficient when there is a codificable understanding of this innovation, cooperation is needed and democratizing the knowledge are necessary to spread the innovation potential in the across the society.
-Transaction cost theory is possible claims that exist 3 governance systems depending of uncertainty level: Efficient Markets, Networks and Hierarchy. I will add other state called crowd, it is an state of infinite hierarchy that happens when market faces situations of ambiguity this market state is characterized population is extremity homogenous action between agents and the decision making process is based only in confidence.
-The thesis of this project is that companies are adaptative organizational arrays whose is aim is to capture value while they minimize their transaction costs
+Developed markets need to stimulate the econnomy using a monetary stimulus (QE). They also have a felxible exchange rate so the stimulus is translated in a temporal decrease of the interest rates. Under this scenario investor will prefer to invest in emerging markets than in DM. It causes net capital outflow taht will be translated in weaker currency.
+This weaker currency will boost the exports in DM , incresing the GDP of DM. This assume that both DM and EM have flexible exchange rates.
 
-The two most important variables are: Homogenity (Heterogenity) and Information (Confidence). The idea is to use macro-economical as proxy to confidence, make sese to realted the level of credit in a economy with confidence.
-As proxy to homegenity is possible to use the correlation between stocks and different financial asset classes.
+In reality that is not true and some EM in particular china have a fixed exchange rate. So, the only focus of the central bank is to ensure that the currency is fluctuating in very small band.
+When there are capital inflows , the EM currecy will have a lot of preassure making the EM central bank to increases the amount of foreign reserves. This also is equivalent to increse the money supply, creating an scenario with higher short term growth.
 
-At the same time I plan to use game theory and multi-agent systems to model the currency wars?
+So in conclusion the increase in the monetary suplly in the DM will not boost the economies is there is not flexible exchange rate. 
+There are  risk associated with this expansion in the monetary. The punishment associated to this strategy is inflation or the formation asset bubbles.
+
+
+
+We present two different models. The first one is the standard iterated prisoner dilemma (IPD). The second is a multigame model. The IPD, shows when countries use “Tit for Tat” strategies will create trading blocks, where emerging markets (CURRENCY CONTROLLERS) grow more than developed markets. (PRINTERS). The iterated prisoner dilemma is a first approach with many unrealistic assumptions. For example, that every couple of countries is facing a prisoner dilemma. Why to be restricted to a prisoner dilemma payoff schema? It also assumes that every pair of countries has the same military or political power.  Finally, it does not give any insight in terms of policies design or how to connect the model with the empirical data. 
+The initial point of the second model is the existence of economical blocks with antagonical interests. This model is based on the paper Cooperation, Wars and Revolution by Helbing and Johansson. We assume the existence of two set of countries with two opposite interest or preferences. As we mention before we are interested in modelling developed markets and emerging markets trade. In particular, today what developed markets consider like a free trade policy is not for emerging markets and vice versa.  Block’s size grows according to the standard equation of dynamical replicators. 
+In this model countries could interact inside the same block or with countries of other blocks.  We assume symmetrical 2X2 matrix allowing countries to face 4 different games: Prisoner Dilemma, Harmonic game, Hawk –Dove game, and Stag Hunt game. Three control parameters are introduced: Coordination, Trust and Power. Coordination and trust determine the games payoff matrix and power captures the GDP differences or military power differences.
+
+
+
 
 
 ## Fundamental Questions
 
-- Is frontal currency war the best response for the society?
--	Is collaision an optimal way to win the currency wars?
-- How to model firms dynamics when there are National Champions?
-- The exitence of protectionism  undermines internal markets diversification, innovation and cooperation?
-- Are the Multinational  model and state capitalist successful model in a currency war ?
-
+- Why trading blocks emerges?
+- What are the possible equibria in the international trade between two blocks?
+- How will win the currency wars?
+- How to design policies to prevent a currency wars?
+- How currency wars affects the size of the firm?
+- In a currency war situations industries will become very concentrated?
 
 
 
 ## Expected Results
 
--  Emergence of coallision between country 
+-  Emergence of coallision between countries
 -  Suboptimal solutions for the world trade
+-  Different possible regime between blocks with antagonical interests
 -  High concentration between  internal countries industries , formation of oligopolies.
 -  Low level of efficiency in the supply chain and overcapacity.
 
@@ -55,7 +65,7 @@ Sornette, D.; Zhou, W. -X.
 Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations [Hardcover]
 Yoav Shoham
 
-Cooperation Norms and Revolutions: A unified game theorical approach
+Cooperation Norms and Revolutions: A unified game theorical approach, Helbing and Johansson
 
 
 ## Research Methods
