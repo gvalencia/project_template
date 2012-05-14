@@ -45,7 +45,7 @@ In this model countries could interact inside the same block or with countries o
 - How will win the currency wars?
 - How to design policies to prevent a currency wars?
 - How currency wars affects the size of the firm?
-- In a currency war situations industries will become very concentrated?
+- In a currency war situations industries  become more concentrated than in other states?
 
 
 
