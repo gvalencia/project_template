@@ -79,7 +79,7 @@ Game Theory
 
 Multi-Agent system
 
-Network Theory
+
 
 ## Other
 
