@@ -12,8 +12,6 @@ Questions like the following, and much others, can be easily formulated:
 What are there long-term risks of the currency war?
 A similar movement of currency war has occurred before, in the 30s. Our extensively more connected world can change its effects?
 Are we living in mercantilism 2.0?
-If Adam smith were alive in XXI century he would be surprised that the wealth of nations in the XXI century resembles more a mercantilism model and his free markets ideal. Currency wars reflects the tension in the factors of production in the world economy, and the intense competence to control one of the factor of production in the absence of a new disruptive technology.
-China and India control the labor supply. US and Europe and Japan control the capital supply and Middle East, Russia and Brazil control of natural resources supply.
 
 
 
