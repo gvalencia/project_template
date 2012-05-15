@@ -21,7 +21,7 @@ There are two trading blocks Developed Markets(DM) and Emerging Markets (EM). De
 The DM weaker currency will boost their exports incresing the GDP in this block. This assume that both DM and EM have flexible exchange rates and the logic is based in the Mundell Fleming model that is the main stream framework to describe relationships between the money market, the goods market and the central bank balance of payments. 
 
 In reality that is not true and some EM in particular China have a fixed exchange rate. So, the only focus of the central bank is to ensure that the currency is fluctuating in very small band.
-When there are capital inflows , the EM currecy will have a lot of preassure making the EM central bank to increases the amount of foreign reserves. This is  equivalent to increse the money supply, creating an scenario with higher short term growth.
+When there are capital inflows , the EM currecy will have a lot of preassure making the EM central bank to increases the amount of foreign reserves. This is  equivalent to increse the money supply, creating a short term boom scenario.
 
 In conclusion, the increase in the monetary supply in the DM will not boost their economies is there is not flexible exchange rate. 
 There are  risk associated with this  monetary expansion in EM. The punishment associated to this strategy is inflation or the formation asset bubbles. So policy makers have to decide between a political convenient short term boom  vs the inflationary risk or  assets bubbles formation in EM markets.
