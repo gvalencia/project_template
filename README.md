@@ -19,8 +19,8 @@ China and India control the labor supply. US and Europe and Japan control the ca
 
 ## The Model
 
-There are two trading blocks Developed Markets(DM) and Emerging Markets (EM). Developed markets need to stimulate the econnomy using a monetary stimulus (QE). They also have a flexible exchange rate so the stimulus is translated in a temporal decrease of the interest rates. Under this scenario investor will prefer to invest in emerging markets than in DM. It causes net capital outflow taht will be translated in weaker currency.
-This weaker currency will boost the exports in DM , incresing the GDP of DM. This assume that both DM and EM have flexible exchange rates.
+There are two trading blocks Developed Markets(DM) and Emerging Markets (EM). Developed markets need to stimulate the econnomy using a monetary stimulus (QE). They also have a flexible exchange rate so the stimulus is translated in a temporal decrease of the interest rates. Under this scenario investors will prefer to invest in Em than in DM. This preference causes net capital outflows that will be translated in weaker currency.
+The DM weaker currency will boost their exports incresing the GDP in this block. This assume that both DM and EM have flexible exchange rates and the logic is based in the Mundell Fleming model that is the main stream framework to describe relationships between the money market and the goods market. 
 
 In reality that is not true and some EM in particular china have a fixed exchange rate. So, the only focus of the central bank is to ensure that the currency is fluctuating in very small band.
 When there are capital inflows , the EM currecy will have a lot of preassure making the EM central bank to increases the amount of foreign reserves. This also is equivalent to increse the money supply, creating an scenario with higher short term growth.
