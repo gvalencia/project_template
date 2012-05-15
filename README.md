@@ -36,7 +36,8 @@ This model is based on the paper Cooperation, Wars and Revolution by Helbing and
 In this model countries could interact inside the same block or with countries of other blocks. 
 We assume symmetrical 2X2 matrix allowing countries to face 4 different games: Prisoner Dilemma, Harmonic game, Hawk –Dove game, and Stag Hunt game. Three control parameters are introduced: Coordination, Trust and Power. Coordination and trust determine the games payoff matrix and power captures the GDP differences or military power differences.
 
-
+Finally,  we make an extension of our model from block of countries to blocks of firms.  The question here is what is the firm size probability distribution in every block. 
+We modify the replicator equations with this porpose. We will show  that when firms blocks  are facing a prisioner's dilema  dominant  factor in growth dynamic is the the previous size ,  making every block very concetrated  (Oligopoly Formation) reflecting a gibrart dynamic. Why will show also the probability distribution  in the other multi-equilibria regime.
 
 
 
@@ -44,7 +45,7 @@ We assume symmetrical 2X2 matrix allowing countries to face 4 different games: P
 
 - Why trading blocks emerges?
 - What are the possible equibria in the international trade between two blocks?
-- How will win the currency wars?
+- Who will win the currency wars?
 - How to design policies to prevent a currency war?
 - How currency wars affects the size of the firm?
 - In a currency war situations industries  become more concentrated than in other states?
@@ -57,6 +58,7 @@ We assume symmetrical 2X2 matrix allowing countries to face 4 different games: P
 -  Emergence of coallision between countries
 -  Suboptimal solutions for the world trade
 -  Different possible regime between blocks with antagonical interests
+-  Multiequilibria in the international trade
 -  High concentration between  internal countries industries , formation of oligopolies.
 -  Low level of efficiency in the supply chain and overcapacity.
 
